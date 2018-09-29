@@ -6,6 +6,12 @@
 
 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 
+# 网络课程
+
+[中国大学MOOC](https://www.icourse163.org/)
+
+[Stanford Online](https://lagunita.stanford.edu/)
+
 # 图形学
 
 [清华大学图形学](http://cg.cs.tsinghua.edu.cn/course/resource.htm)
@@ -19,8 +25,6 @@
 [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP](https://github.com/apachecn/AiLearning)
 
 [机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归](https://github.com/Jack-Cherish/Machine-Learning)
-
-
 
 # 杂项
 
