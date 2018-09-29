@@ -1,4 +1,4 @@
-纯大学学习资源整理
+资源整理，主要是我的书签太多了看不过来。
 
 # 资源
 
@@ -25,3 +25,6 @@
 # 杂项
 
 [chinese-poetry [古诗] 简体中文版本](https://github.com/chinese-poetry/chinese-poetry-zhCN)
+
+[C 语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)
+
