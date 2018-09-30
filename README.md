@@ -32,3 +32,5 @@
 
 [C 语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)
 
+[笔试/面试知识整理(HIT-Alibaba)](https://hit-alibaba.github.io/interview/)
+
